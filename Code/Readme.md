@@ -2,6 +2,6 @@
 
 This folder hosts all code for a data science project. It has three sub-folders, belonging to 3 stages of the Data Science Lifecycle:
 
-1. Data_Acquisition_and_Understanding
+1. Data Preparation
 2. Modeling
 3. Deployment
